@@ -1,4 +1,5 @@
 import random
+qqqq
 
 
 def function_A(min, max):
